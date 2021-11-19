@@ -1,5 +1,5 @@
 s=input()
 if s==s[::-1]:
-	print("PALINDROME")
+	print("PAL")
 else:
 	print("NOT A PALINDROME")
